@@ -13,6 +13,6 @@ class Meal
 
   def self.all
     @@all
-    puts "you have called all"
+    #puts "you have called all"
   end
 end
